@@ -1,0 +1,29 @@
+body {
+  background-color: rgb(226, 205, 177);
+  display: flex;
+  justify-content: center;
+}
+
+#div1 {
+  position: absolute;
+  background-color: aqua;
+  padding: 15px;
+  text-align: center;
+  border-radius: 10px;
+  width: 225px;
+  height: 355px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+}
+#div2 {
+  justify-content: center;
+  border-style: outset;
+}
+
+.table1 {
+  width: 100%;
+}
+td {
+  text-align: center;
+}
